@@ -26,19 +26,13 @@
 ![Git](https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
-### 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omnia-bashandy&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omnia-bashandy&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800"/>
-
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Omnia-bashandy&theme=default&hide_border=true)
 
 ---
 
-### 📫 Connect With Me
+### 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omnia%20Bashandy-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omnia-bashandy/)
 
