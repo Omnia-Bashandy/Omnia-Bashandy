@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Omnia Bashandy</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Omnia+Bashandy;React+%26+Next.js+Developer;Building+Modern+Web+Applications" />
+</h1>
+
 <h3 align="center">React Frontend Developer | Building clean & scalable web apps</h3>
 
 ---
@@ -23,14 +26,11 @@
 ![Git](https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
-
 ### 📊 GitHub Stats
 
-![Omnia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omnia-bashandy&show_icons=true&theme=default&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omnia-bashandy&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&cache_seconds=1800"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omnia-bashandy&layout=compact&theme=default&hide_border=true)
-
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omnia-bashandy&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800"/>
 
 ### 🔥 GitHub Streak
 
@@ -40,9 +40,9 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omnia%20Bashandy-0A66C2?style=for-the-badge&logo=linkedin)](PUT_YOUR_LINKEDIN_LINK_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omnia%20Bashandy-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omnia-bashandy/)
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:PUT_YOUR_EMAIL_HERE)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:omniabashandy.dev@gmail.com)
 
 <!--
 **Omnia-Bashandy/Omnia-Bashandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
